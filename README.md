@@ -125,11 +125,7 @@ Global game sales peaked around **2008–2009** with the rise of the PS3, Xbox 3
 ## Author
 
 **[Marko Hasbi Rahman]**
-📧 email@example.com
+📧 markohasbi@gmail.com
 🔗 [LinkedIn](https://www.kaggle.com/markohasbirahman) | [GitHub](https://github.com/Markkkow)
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
