@@ -60,7 +60,7 @@ video-game-analysis/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/username/video-game-analysis.git
+git clone https://github.com/Markkkow/video-game-analysis.git
 cd video-game-analysis
 ```
 
